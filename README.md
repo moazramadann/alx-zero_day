@@ -1,4 +1,4 @@
-My first readme
+My first readme up_to_date
 <<<<<<< HEAD
 This is the README file for the 0x03-git directory.
 =======
